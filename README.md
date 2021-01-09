@@ -1,4 +1,4 @@
-# traffic-sign-multiclassification
+# Traffic-Sign-Multiclassification using CNN
 ## Introduction  
 Traffic sign detection and recognition have been gaining growing attention from the past few years. Traffic signs hold important information that drivers can disregard due to fatigue driving or threatening weather conditions. Nowadays in unsuitable traffic conditions, drivers can not see the traffic signs, which can result in a lot of accidents. In these situations, the need for automatic detection and recognition of traffic signs emerges which helps the driver get an idea of traffic on the road ahead. An automatic traffic sign recognition system can identify and acknowledge images recorded from vehicle cameras and sensors. The main objective of this project was to improve the robustness and reliability of the framework for the identification and recognition of traffic signs that can be implemented in real-time.  
 
